@@ -54,7 +54,10 @@ body{
 }
 .SIZING{
   width: 570px;
-
+}
+.fa .fa-check .fa-3x{
+  text-indent: 2vw !important;
+  margin-right: 0 !important;
 }
 .blockquote {
   padding-right: 15vw;
